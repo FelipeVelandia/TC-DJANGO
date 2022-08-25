@@ -3,6 +3,6 @@
 *.pot
 *.pyc
 __pycache__
-libreria/__pycache__
+proyecto/proyecto/__pycache__
 media
 /env
